@@ -31,13 +31,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área desejada (se não tiver ignore)</strong>. <br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Olá, meu nome é Eduardo, tenho 16 anos, e me descobri na área da programação. A área na qual almejo é a de programador de jogos. <br>
+  Atualmente curso Programação Web na UniRitter a partir da IOS, além disso, estou estudando no segundo ano do Ensino Médio.
 </p>
 
 <p align="left">
  
-  🦄 Objetivo: **Exemplo: aprendizagem contínua.**
+  🦄 Objetivo: **Obter muito conhecimento e atingir meus sonhos.**
 </p>
 
 <p align="left">
