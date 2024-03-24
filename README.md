@@ -31,7 +31,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá, meu nome é Eduardo, tenho 16 anos, e me descobri na área da programação. A área na qual almejo é a de programador de jogos. <br>
+  Olá, meu nome é Eduardo, tenho 16 anos, e me descobri na área da programação. A área na qual almejo é a de programador de jogos e aplicativos. <br>
   Atualmente curso Programação Web na UniRitter a partir da IOS, além disso, estou estudando no terceiro ano do Ensino Médio.
 </p>
 
