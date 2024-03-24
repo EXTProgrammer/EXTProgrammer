@@ -32,7 +32,7 @@
 
 <p align="left"> 
   Olá, meu nome é Eduardo, tenho 16 anos, e me descobri na área da programação. A área na qual almejo é a de programador de jogos. <br>
-  Atualmente curso Programação Web na UniRitter a partir da IOS, além disso, estou estudando no segundo ano do Ensino Médio.
+  Atualmente curso Programação Web na UniRitter a partir da IOS, além disso, estou estudando no terceiro ano do Ensino Médio.
 </p>
 
 <p align="left">
