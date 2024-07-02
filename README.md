@@ -9,7 +9,7 @@
 
 
 ## Encontre-me:
-![image](https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/08001cad-80e6-4603-b1df-23c75c2f4053)  ![image](https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/210889f6-785a-4788-bd99-6506e0d2dc71) 
+![image](https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/08001cad-80e6-4603-b1df-23c75c2f4053)
 
 <br> 
 
