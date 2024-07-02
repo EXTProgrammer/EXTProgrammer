@@ -5,7 +5,7 @@
 </img>
 
 ### Tecnologias que estou aprendendo:
-![image](https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/1be7d6a3-660d-4b24-aa1a-690e790db457) ![image](https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/a3d3f463-6dcc-481c-b402-51f40caa1cf6)
+![image](https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/1be7d6a3-660d-4b24-aa1a-690e790db457) ![image](https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/a3d3f463-6dcc-481c-b402-51f40caa1cf6) ![image](https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/51c57548-058b-4bd0-98bd-734f931cfcd8) ![image](https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/f7d3d8a8-231e-4e1c-a771-b5b3c516a743) ![image](https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/f87db9f7-7b05-4881-b0ad-c2dea502ae51)
 
 
 ## Encontre-me:
@@ -31,7 +31,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá, meu nome é Eduardo, tenho 16 anos, e me descobri na área da programação. A área na qual almejo é a de programador de jogos e aplicativos. <br>
+  Olá, meu nome é Eduardo, tenho 17 anos, e me descobri na área da programação. A área na qual almejo é a de programador de jogos e aplicativos. <br>
   Atualmente curso Programação Web na UniRitter a partir da IOS, além disso, estou estudando no terceiro ano do Ensino Médio.
 </p>
 
