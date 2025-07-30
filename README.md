@@ -12,7 +12,7 @@
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=EXTProgrammer&show_icons=true&theme=catppuccin_mocha&rank_icon=github&card_width=200px" />
 </a>
 <a href="https://github.com/EXTProgrammer">
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EXTProgrammer&layout=donut&theme=catppuccin_mocha&hide_progress=true" />
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EXTProgrammer&layout=donut&theme=catppuccin_mocha&hide_progress=true" />
 </a>
 
 ##
