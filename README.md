@@ -12,7 +12,7 @@
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=EXTProgrammer&show_icons=true&theme=catppuccin_mocha&rank_icon=github&card_width=200px" />
 </a>
 <a href="https://github.com/EXTProgrammer">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EXTProgrammer&layout=donut&theme=catppuccin_mocha&hide_progress=true" />
+  <img height="130em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EXTProgrammer&layout=donut&theme=catppuccin_mocha&hide_progress=true" />
 </a>
 
 ##
@@ -36,5 +36,5 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EXTProgrammer/EXTProgrammer/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EXTProgrammer/EXTProgrammer/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EXTProgrammer/EXTProgrammer/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/EXTProgrammer/EXTProgrammer/output/github-contribution-grid-snake.svg">
 </picture>
