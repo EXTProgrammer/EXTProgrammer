@@ -4,7 +4,6 @@
 - 🖳  Sou Javeiro
 - 🕮 Cursando Ciência da Computação
 - 💬 Contate-me no email: eduardoxaubet1@gmail.com
-- 😄 Pronomes: ele/dele
 - ✨ Gosto de animes, games, esportes e tecnologia!
 
 ##
